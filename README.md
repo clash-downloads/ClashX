@@ -1,6 +1,10 @@
 # ClashX 下载最新版下载Clash官网资源
 
-
+<br>
+<div align="center">
+  <img width="150" height="150" alt="ClashX" src="https://github.com/user-attachments/assets/e5f9ec00-bc74-4dfe-b5c8-725d5ff3f0ee" />
+</div>
+<br>
 
 ## :memo: Clash节点资源
 
